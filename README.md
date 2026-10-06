@@ -1,6 +1,5 @@
 # Autonomous Snowplow - Infinitely Hot
 ## SYSC 4805 - L3-G15
-<img src="common/project_image.png" height="400" width="650" >
 
 ## Table of Contents
 - [Members](#members)
